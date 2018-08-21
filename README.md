@@ -1,6 +1,6 @@
 # Voting-Sytem
 The android voting system is an android application that provides a new technique of casting votes using mobile phones
-A SYNOPSIS ON
+
 
 PROJECT REPORT
 
