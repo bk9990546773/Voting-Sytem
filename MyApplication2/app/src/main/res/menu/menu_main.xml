@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/action_add"
+        android:icon="@mipmap/ic_add_black_24dp"
+        android:title="Add post"
+        android:visible="true"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/admin_about"
+        android:title="About us"
+        android:visible="true"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_logout"
+        android:icon="@mipmap/ic_power_settings_new_white_24dp"
+        android:title="Logout"
+        android:visible="true"
+        app:showAsAction="never" />
+</menu>
